@@ -33,3 +33,8 @@ my_flask_project/
 ├── run.py
 ├── requirements.txt
 └── README.md
+
+## 📖 Documentation
+
+- Sphinx Docs:  https://dingyan769-star.github.io/my_flask_project_API/
+- Swagger UI: http://127.0.0.1:5000/apidocs
